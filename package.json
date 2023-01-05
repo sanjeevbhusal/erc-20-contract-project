@@ -1,0 +1,15 @@
+{
+  "name": "erc-20-project",
+  "version": "1.0.0",
+  "description": "- Create a Smart Contract for ERC-20 token. - Write test cases for the Contract - Deploy to goerli test net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.12.5"
+  }
+}
